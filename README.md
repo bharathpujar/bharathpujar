@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bharathpujar
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Ract JS 
+- 💞️ I’m looking to collaborate on any freelance projects that will help me to test my skills as a programmer! 😃🤗
+- 📫 How to reach me 
 
 <!---
 bharathpujar/bharathpujar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
